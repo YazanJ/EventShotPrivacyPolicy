@@ -138,8 +138,3 @@ We reserve the right to modify or replace these Terms at any time. The most curr
 If you have any questions about these Terms, please contact us at:
 
 _Email:_ [your email address]
-
----
-
-**Disclaimer:**  
-The above Privacy Policy and Terms and Conditions are provided for informational purposes only and do not constitute legal advice. It is recommended to consult with a qualified legal professional to ensure compliance with all applicable laws and regulations.# EventShotPrivacyPolicy
