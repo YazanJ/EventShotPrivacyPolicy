@@ -1,18 +1,18 @@
-**Privacy Policy for EventShot**
+**Privacy Policy & Terms and Conditions for EventShot**
 
-_Last Updated: [Date]_
+_Last Updated: 04/12/2024
 
 Welcome to EventShot! This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our Telegram bot. We are committed to protecting your privacy and ensuring the security of your data.
 
 **1. Introduction**
 
-EventShot ("we," "us," or "our") operates the Telegram bot that uses AI to convert images you send into Google Calendar events. By using our bot, you agree to the collection and use of your information in accordance with this Privacy Policy.
+EventShot ("we," "us," or "our") operates the Telegram bot (https://t.me/eventshotbot) that uses AI to convert images you send into Google Calendar events. By using our bot, you agree to the collection and use of your information in accordance with this Privacy Policy.
 
 **2. Information We Collect**
 
 - **Personal Information:** When you use EventShot, we may collect:
   - Your Telegram username
-  - Profile picture
+  - Your Telegram Name 
   - Messages and images you send to the bot
 
 - **Usage Data:** We may collect information that your device sends whenever you use the bot, such as:
@@ -25,7 +25,7 @@ EventShot ("we," "us," or "our") operates the Telegram bot that uses AI to conve
 We use the collected data for the following purposes:
 
 - **Provide and Maintain the Service:** To operate and improve our Telegram bot.
-- **Process Payments:** To manage payments after the free usage limit using Stripe.
+- **Process Payments:** To manage payments after the free usage limit using Stripe or any other payment processor. 
 - **Communication:** To send you updates, support, or other relevant information.
   
 **4. Data Retention**
@@ -47,7 +47,7 @@ Depending on your location, you may have the following rights regarding your per
 - Right to data portability
 - Right to object to processing
 
-To exercise these rights, please contact us at [your email address].
+To exercise these rights, please contact us at fete.70-squints@icloud.com.
 
 **7. Third-Party Services**
 
@@ -66,15 +66,15 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-_Email:_ [your email address]
+_Email:_ fete.70-squints@icloud.com
 
 ---
 
 **Terms and Conditions for EventShot**
 
-_Last Updated: [Date]_
+_Last Updated: 04/12/24
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the EventShot Telegram bot operated by [Your Name].
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the EventShot Telegram bot (https://t.me/eventshotbot).
 
 **1. Acceptance of Terms**
 
@@ -111,7 +111,7 @@ We reserve the right to terminate or suspend your access to EventShot immediatel
 
 **8. Limitation of Liability**
 
-To the fullest extent permitted by law, [Your Name] shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
+To the fullest extent permitted by law, EventShot or its creator shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
 
 - Your use or inability to use the service.
 - Any unauthorized access to or use of our servers and/or any personal information stored therein.
@@ -119,7 +119,7 @@ To the fullest extent permitted by law, [Your Name] shall not be liable for any 
 
 **9. Indemnification**
 
-You agree to defend, indemnify, and hold harmless [Your Name] from any claims, damages, obligations, losses, liabilities, costs, or debt, and expenses arising from:
+You agree to defend, indemnify, and hold harmless the creator of EventShot from any claims, damages, obligations, losses, liabilities, costs, or debt, and expenses arising from:
 
 - Your use of and access to the service.
 - Your violation of any term of these Terms.
@@ -137,4 +137,4 @@ We reserve the right to modify or replace these Terms at any time. The most curr
 
 If you have any questions about these Terms, please contact us at:
 
-_Email:_ [your email address]
+_Email:_ fete.70-squints@icloud.com
